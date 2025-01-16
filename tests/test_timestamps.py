@@ -1,4 +1,4 @@
-from utc_time import timestamp
+from iso_datetime_utc import timestamp
 
 
 def test_timestamps():
