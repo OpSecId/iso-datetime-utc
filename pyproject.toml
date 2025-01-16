@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "iso-datetime-utc "
+name = "iso-datetime-utc"
 version = "0.1.0"
 description = ""
 authors = ["PatStLouis <patrick.st-louis@opsecid.ca>"]
